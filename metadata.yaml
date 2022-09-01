@@ -2,5 +2,5 @@ homepage: "https://www.rombo.ooo/"
 documentation: "https://help.rombo.ooo/"
 versions:
   # Latest version
-  - sha: ed19638d1859ad9a322358b635bebc2bd81ff212
+  - sha: 0002e31a47001c2d20ffcac3aaf43587645cad1a
     changeNotes: Initial release
