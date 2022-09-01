@@ -3,4 +3,4 @@ documentation: "https://help.rombo.ooo/"
 versions:
   # Latest version
   - sha: ed19638d1859ad9a322358b635bebc2bd81ff212
-    changesNotes: Initial release
+    changeNotes: Initial release
